@@ -10,7 +10,7 @@ About me :
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Html,Css and javascript projects
 - 🤔 I’m looking for help with few javascript topics
-- 💬 Ask me about Programming and Enterpreneurship
+- 💬 Ask me about programming and enterpreneurship
 - 📫 How to reach me: Twitter: mishecklivingi2 | LinkedIn: Misheck Livingi | Gmail: misheck1720@gmail.com
 - 😄 Pronouns: him/his/he
 - ⚡ Fun fact: The strongest muscle in the body is the tongue. 
