@@ -1,4 +1,4 @@
-### Hi there 👋 my name is misheck livingi
+### Hi there 👋 my name is Misheck Livingi
 
 ### currently open to work
 
