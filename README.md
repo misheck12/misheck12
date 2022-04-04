@@ -1,10 +1,12 @@
 ### Hi there 👋 my name is misheck livingi
 
+### currently open to work
+
 I have experience in web development with css and html. Now I am learning web development using Ruby, javascript and redux. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is a good way to learn more.
 
 About me :
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Courier management system
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Html,Css and javascript projects
 - 🤔 I’m looking for help with few javascript topics
