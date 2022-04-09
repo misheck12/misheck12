@@ -7,7 +7,6 @@ I have experience in web development with css and html. Now I am learning web de
 About me :
 
 - 🔭 I’m currently working on Courier management system
-- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Html,Css and javascript projects
 - 🤔 I’m looking for help with few javascript topics
 - 💬 Ask me about programming and enterpreneurship
