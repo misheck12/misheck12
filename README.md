@@ -7,8 +7,8 @@ I have experience in web development with css and html. Now I am learning web de
 About me :
 
 - 🔭 I’m currently working on Courier management system
-- 👯 I’m looking to collaborate on Html,Css and javascript projects
-- 🤔 I’m looking for help with few javascript topics
+- 👯 I’m looking to collaborate on HTML,CSS and JavaScript projects
+- 🤔 I’m looking for help with few javaScript topics
 - 💬 Ask me about programming and enterpreneurship
 - 📫 How to reach me: Twitter: mishecklivingi2 | LinkedIn: Misheck Livingi | Gmail: misheck1720@gmail.com
 - 😄 Pronouns: him/his/he
