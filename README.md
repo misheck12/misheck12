@@ -9,8 +9,8 @@ About me :
 - Currently a student at Microverse Inc, learning Full-Stack Web Development (Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)
 - Demostrated - agile, practical 1+ years of professional programming experience in building viable app products, and Startups using; (PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS).
 
-- 🔭 I’m currently working on Courier management system
-- 👯 I’m looking to collaborate on HTML,CSS and JavaScript projects
+- 🔭 I’m currently working on Mizu research
+- 👯 I’m looking to collaborate on ruby on rails projects
 - 🤔 I’m looking for help with few javaScript topics
 - 💬 Ask me about programming and enterpreneurship
 - 📫 How to reach me: Twitter: mishecklivingi2 | LinkedIn: Misheck Livingi | Gmail: misheck1720@gmail.com
