@@ -1,21 +1,22 @@
 ### Hi there 👋 my name is Misheck Livingi
 
-### currently open to work
+### Full-Stack Web Developer | Open to Work
 
-I have experience in web development with css and html. Now I am learning web development using Ruby, javascript and redux. I would like to contribute to many open-source projects. I am open to new challenges. I'm sure this is a good way to learn more.
+I am a passionate Full-Stack Web Developer with experience in building web applications and contributing to open-source projects. I enjoy tackling new challenges and am always eager to learn and grow.
 
 About me :
-- See my portfolio for personal projects I have worked on and built (https://misheck12.github.io/Portfolio/).
-- Currently a student at Microverse Inc, learning Full-Stack Web Development (Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)
-- Demostrated - agile, practical 1+ years of professional programming experience in building viable app products, and Startups using; (PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS).
+- 🌐 See my portfolio for personal projects I have worked on and built: [misheck12.github.io/Portfolio](https://misheck12.github.io/Portfolio/)
+- 💼 Full-Stack Web Developer with hands-on experience in Ruby on Rails, JavaScript, ReactJS, Redux, PostgreSQL, HTML & CSS
+- 🏗️ Demonstrated professional programming experience in building viable app products and startups using: PHP, MySQL, SQLite, JavaScript, ReactJS, jQuery, HTML & CSS
+- 🚀 Continuously expanding my skill set with modern web technologies and best practices
 
-- 🔭 I’m currently working on Mizu research
-- 👯 I’m looking to collaborate on ruby on rails projects
-- 🤔 I’m looking for help with few javaScript topics
-- 💬 Ask me about programming and enterpreneurship
+- 🔭 I'm currently working on full-stack web applications
+- 👯 I'm looking to collaborate on open-source projects
+- 🌱 I'm currently learning TypeScript and advanced React patterns
+- 💬 Ask me about programming and entrepreneurship
 - 📫 How to reach me: Twitter: mishecklivingi2 | LinkedIn: Misheck Livingi | Gmail: misheck1720@gmail.com
 - 😄 Pronouns: him/his/he
-- ⚡ Fun fact: The strongest muscle in the body is the tongue. 
+- ⚡ Fun fact: The strongest muscle in the body is the tongue.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misheck12&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misheck12&theme=radical)](https://github.com/misheck12/github-readme-stats)
@@ -25,12 +26,16 @@ About me :
 <img src="https://img.shields.io/badge/Graphql-%cc6699?style=flat&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=563D7C">
 <img src="https://img.shields.io/badge/-JSON-F29111?style=flat&logo=json&logoColor=FFFFF">
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
@@ -38,8 +43,6 @@ About me :
 <img src="http://img.shields.io/badge/Git-GitBash-black?style=flat&logo=git&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
-<img src="https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
